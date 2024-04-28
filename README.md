@@ -41,5 +41,5 @@ If you're looking to contribute to the project, you can:
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-Email: abdullahdaniyal67@gmail.com , musmanbaig2003@gmail.com
-LinkedIn: https://www.linkedin.com/in/abdullah-daniyal-3b1722273/ , https://www.linkedin.com/in/muhammad-usman-baig-06954427a/
+### Email: abdullahdaniyal67@gmail.com , musmanbaig2003@gmail.com
+### LinkedIn: https://www.linkedin.com/in/abdullah-daniyal-3b1722273/ , https://www.linkedin.com/in/muhammad-usman-baig-06954427a/
