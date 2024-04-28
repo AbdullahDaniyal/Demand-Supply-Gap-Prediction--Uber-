@@ -42,4 +42,4 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 
 ## Contact
 Email: abdullahdaniyal67@gmail.com , musmanbaig2003@gmail.com
-LinkedIn: https://www.linkedin.com/in/abdullah-daniyal-3b1722273/
+LinkedIn: https://www.linkedin.com/in/abdullah-daniyal-3b1722273/ , https://www.linkedin.com/in/muhammad-usman-baig-06954427a/
