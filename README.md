@@ -19,7 +19,7 @@ Each model's performance is evaluated based on R-squared values and RMSE, with v
 - `models/` - Serialized models ready for use.
 
 ## How to Use
-We did it on colab, you can use that or you can install necessary dependencies for it.
+We did it on colab, you can use that or you can install necessary dependencies for it. You can contact us through our email or linkedIn for the data to train your model with.
 
 ## Results
 A summary of the findings from the different models and an explanation of the forecasted results.
